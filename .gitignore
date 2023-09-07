@@ -119,6 +119,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+mer/
+
+# Outher Direct
+edgedriver_64/
 
 # Spyder project settings
 .spyderproject
