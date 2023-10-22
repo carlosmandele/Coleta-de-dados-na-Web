@@ -1,5 +1,5 @@
  <h1 style="font-size:200%;
-  text-align:center">Web Scraping: Automatizando uma recolha de dados na web com Selenium</h1>
+  text-align:center">Web Scraping com Python: Automatizando uma recolha de dados na web com Selenium</h1>
 <h4 style="font-size:150%;
  text-align:center">by Carlos Mandele, Data Scientist in progress</h4>
 
