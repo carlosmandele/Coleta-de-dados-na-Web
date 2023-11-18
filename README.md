@@ -6,6 +6,7 @@
 Projeto realizado durante minha aula de visão computacional (Deep learning) avançado na Université Cégep de Matane
 
 ##### Copyright (c) 2023, Carlos MANDELE
+
 O conteúdo deste projeto é licenciado <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target='_blank'>Creative Commons Attribution 4.0 (CC BY 4.0)</a>,<br/>e os código estão em <a href="https://www.apache.org/licenses/LICENSE-2.0" target='_blank'>licence Apache 2.0</a>.
  
 
