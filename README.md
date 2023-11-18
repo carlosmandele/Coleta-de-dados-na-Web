@@ -1,13 +1,16 @@
- <h1 style="font-size:200%;
+ <h1 style="font-size:150%;
   text-align:center">Web Scraping com Python: Automatizando uma recolha de dados na web com Selenium</h1>
   <h4 style="font-size:150%;
- text-align:center">Este projeto é parte da formação em Vision artificielle (Visão Computacional) da Cegep-Matane</h4>
-<h4 style="font-size:150%;
- text-align:center">by Carlos Mandele, Data Scientist in progress</h4>
+ ##
+   
+   Projeto realizado durante minha aula de visão computacional (Deep learning) avançado na Université Cégep de Matane
+
+   ##### Copyright (c) 2023, Carlos MANDELE
+O conteúdo deste projeto é licenciado <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target='_blank'>Creative Commons Attribution 4.0 (CC BY 4.0)</a>,<br/>e os código estão em <a href="https://www.apache.org/licenses/LICENSE-2.0" target='_blank'>licence Apache 2.0</a>.
  
 
 ##
-Web scraping é uma técnica que compreende a recolha de dados de paginas web com objetivo de extrair informações específicas. Neste projeto, o objetivo é extair informações de forma automatizada sobre as condições das marés em Tadoussac(Canada) para os próximos sete dias, utilizando Python e as bibliotecas Selenium e BeautifulSoup.
+Web scraping é uma técnica que compreende a recolha de dados de paginas web com objetivo de extrair informações específicas. Neste projeto, o objetivo é extair informações de forma automatizada sobre as condições das marés em Tadoussac (Canada) para os próximos sete dias, utilizando Python e as bibliotecas Selenium e BeautifulSoup.
 
  ##
 <h2 style="font-size:150%;
@@ -41,3 +44,7 @@ Web scraping é uma técnica que compreende a recolha de dados de paginas web co
 7- Extrair informações detalhadas com expressões regulares
 
 8- Salvando em uma estrutura de dados na memória e/ou em um arquivo
+
+
+#
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>
