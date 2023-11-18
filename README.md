@@ -1,7 +1,4 @@
- <h1 style="font-size:150%;
-  text-align:center">Web Scraping com Python: Automatizando uma recolha de dados na web com Selenium</h1>
-  <h4 style="font-size:150%;
- ##
+## Web Scraping com Python: Automatizando uma recolha de dados na web com Selenium
    
 Projeto realizado durante minha aula de visão computacional (Deep learning) avançado na Université Cégep de Matane
 
