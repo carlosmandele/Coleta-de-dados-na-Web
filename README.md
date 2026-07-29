@@ -7,7 +7,7 @@ O conteúdo deste projeto é licenciado <a href="https://creativecommons.org/lic
  
 
 ---
-Este projeto é parte do curso de `Vision artificielle et exploitation intelligente des ressources naturelles do` [CÉGEPE DE MATANE (Canada)](https://www.cegep-matane.qc.ca/). Neste projeto, o objetivo é extair informações de forma automatizada sobre as condições do mar em Tadoussac (Canada) para os próximos sete dias, utilizando Python e as bibliotecas Selenium e BeautifulSoup.
+Este projeto é parte do curso de `Vision artificielle et exploitation intelligente des ressources naturelles do` [CÉGEPE DE MATANE (Canadá)](https://www.cegep-matane.qc.ca/). Neste projeto, o objetivo é extair informações de forma automatizada sobre as condições do mar em Tadoussac (Canada) para os próximos sete dias, utilizando Python e as bibliotecas Selenium e BeautifulSoup.
 
  ##
 <h2 style="font-size:150%;
