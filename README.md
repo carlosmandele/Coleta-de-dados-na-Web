@@ -1,14 +1,13 @@
-## Web Scraping com Python: Automatizando uma recolha de dados na web com Selenium
-   
-Projeto realizado durante minha aula de visão computacional (Deep learning) avançado na Université Cégep de Matane
+## Web Scraping - Automatizando uma recolha de dados na web com Python
 
-##### Copyright (c) 2023, Carlos MANDELE
 
-O conteúdo deste projeto é licenciado <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target='_blank'>Creative Commons Attribution 4.0 (CC BY 4.0)</a>,<br/>e os códigos estão em <a href="https://www.apache.org/licenses/LICENSE-2.0" target='_blank'>licence Apache 2.0</a>.
+##### Copyright (c) 2023, KALOMBOLA, C. M.
+
+O conteúdo deste projeto é licenciado <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target='_blank'>Creative Commons Attribution 4.0 (CC BY 4.0)</a>
  
 
-##
-Web scraping é uma técnica que compreende a recolha de dados de paginas web com objetivo de extrair informações específicas. Neste projeto, o objetivo é extair informações de forma automatizada sobre as condições das marés em Tadoussac (Canada) para os próximos sete dias, utilizando Python e as bibliotecas Selenium e BeautifulSoup.
+---
+Este projeto é parte do curso de `Vision artificielle et exploitation intelligente des ressources naturelles do` [CÉGEPE DE MATANE (Canada)](https://www.cegep-matane.qc.ca/). Neste projeto, o objetivo é extair informações de forma automatizada sobre as condições do mar em Tadoussac (Canada) para os próximos sete dias, utilizando Python e as bibliotecas Selenium e BeautifulSoup.
 
  ##
 <h2 style="font-size:150%;
