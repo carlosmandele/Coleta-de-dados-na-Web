@@ -119,7 +119,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-mer/
+selenv/
 
 # Outher File and folder
 drive/
