@@ -124,6 +124,8 @@ selenv/
 # Outher File and folder
 drive/
 Dados/
+*.exe
+
 
 # Spyder project settings
 .spyderproject
